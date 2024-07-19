@@ -37,10 +37,10 @@ Exploratory Data Analysis (EDA):
 - Calculated unique patient visits by predicting daily visits and scaling for the new clinics.
 
 # Tools Used
-SQL: For data extraction and initial data analysis.
-Python: For forecasting using linear regression and the Facebook Prophet model.
-Tableau: For data visualization and identifying patterns.
-Excel: For initial trend analysis and calculations.
+- SQL: For data extraction and initial data analysis.
+- Python: For forecasting using linear regression and the Facebook Prophet model.
+- Tableau: For data visualization and identifying patterns.
+- Excel: For initial trend analysis and calculations.
 
 # Key Findings
 The total expected revenue for 2023 is approximately $4,033,864.7.
